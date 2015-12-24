@@ -1,4 +1,4 @@
-# Change Detection with Multitemporal Polarimetric SAR Imagery
+# Acquisition Path Analysis
 
 This repo contains the source files for the Docker image mort/apadevdocker, which performs acquisition path analysis on a hypothetical nuclear fuel cycle.
 ###Installation
