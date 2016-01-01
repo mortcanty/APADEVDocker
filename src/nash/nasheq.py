@@ -94,6 +94,7 @@ def leaving(T,s):
             return S[0]
         else:              # degenerate game   
             Vs = [ T[S[i],:]/T[S[i],s+1] for i in range(len(S)) ]
+            print '***degenerate game***'
             posmax = S[0]  
             Vmax = Vs[0]
             ell = 1
